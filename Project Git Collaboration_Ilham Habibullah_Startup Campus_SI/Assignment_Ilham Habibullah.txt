@@ -1,0 +1,10 @@
+Assignment
+
+Assignment Outcomes:
+Students have GitHub account and repository
+Students could make code collaboration
+Instruction:
+Read instructions in Homework - Version Control with Git below
+Assessment Requirements
+Have a GitHub repository
+Understand git workflow, branching strategy, and pull request 

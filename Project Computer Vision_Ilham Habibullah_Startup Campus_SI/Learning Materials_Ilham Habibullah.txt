@@ -1,0 +1,9 @@
+Learning Materials
+
+Deep Learning & Computer Vision
+Introduction to Deep Learning https://courses.d2l.ai/berkeley-stat-157/index.html
+Deep Learning for Computer Vision https://cs231n.github.io/python-numpy-tutorial/
+Deep Learning - for Data Science https://atcold.github.io/pytorch-Deep-Learning/ 
+Computer Vision https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/
+Deep Learning https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/
+Intelligent Systems - Computer Vision https://ev.is.mpg.de/pages/course-intelligent-systems-computer-vision-ss-2020

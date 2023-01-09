@@ -1,0 +1,13 @@
+Assignment
+
+
+Assignment Outcomes (Target Portfolio)
+Peserta bisa melakukan Segmentasi Data dengan metode Clustering
+Peserta bisa melakukan dan membandingkan beberapa model Supervised Learning
+Peserta bisa mendesain dan buat neural network sederhana (bukan CNN, namun dengan perceptron model) untuk MNIST Handwritten Digit Dataset
+
+
+Instruction:
+Read instructions in file (attached): Homework 4 (Homework 1, 2, 3, dan bonus)
+04_HW01.ipynb - base notebook untuk soal 1
+04_HW02.ipynb - base notebook untuk soal 2

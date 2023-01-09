@@ -1,0 +1,21 @@
+Assignment
+
+Assignment Outcomes:
+Students more familiar with Python
+Students could completing and compiling the code without getting any error
+Students pass 10 test cases (5 test cases for each use cases) - Test cases are Mentor Confidential
+Instruction:
+In this assignment participants need to complete and compile the code and get the expected output without getting any error.
+
+Please download Homework 2 Python.docx for further instruction and case explanations
+
+Step by step for doing this assignment:
+Please download the Homework_2_Python_Programming.ipynb file, don't choose "Open with Google Collabs" on this file
+Upload the .ipynb file to your Google Collabs
+Follow the instruction inside .ipynb, complete the missing code
+Rename the file with HW2_(full name).ipynb
+Don't forget to open the access for us (change the share status with "Everyone with Link")
+Put your Google Collabs link on assignment submission form
+Assessment Requirements
+Complete missing code without error
+Get the output as expected

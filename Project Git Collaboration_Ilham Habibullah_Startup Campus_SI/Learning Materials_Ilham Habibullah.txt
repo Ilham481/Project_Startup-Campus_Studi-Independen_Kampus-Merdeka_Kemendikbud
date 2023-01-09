@@ -1,0 +1,21 @@
+Learning Materials
+
+Introduction to Git
+Intro to github for version control https://ourcodingclub.github.io/tutorials/git/
+Git for Computer Scientists https://eagain.net/articles/git-for-computer-scientists/
+How to explain git in simple words? https://xosh.org/explain-git-in-simple-words/
+Git from the Bottom Up by John Wiegley https://jwiegley.github.io/git-from-the-bottom-up/
+How to write the perfect pull request https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/
+
+
+Version Control Git
+Version Control with Git https://swcarpentry.github.io/git-novice/
+Introduction to version control with Git https://coderefinery.github.io/git-intro/
+Git for Version Control https://courses.cs.washington.edu/courses/cse403/13au/lectures/git.ppt.pdf
+A successful Git branching model https://nvie.com/posts/a-successful-git-branching-model/
+Git (version control) 1 - https://www.youtube.com/watch?v=2sjqTHE0zok&t=3s&ab_channel=MissingSemester 
+Git (version control) 2 - https://missing.csail.mit.edu/2020/version-control/
+Git and GitHub for Beginners - Crash Course https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org
+Pro Git e-Book
+https://git-scm.com/book/en/v2

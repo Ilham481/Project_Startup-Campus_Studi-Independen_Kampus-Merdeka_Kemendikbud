@@ -1,0 +1,38 @@
+Assignment
+
+Assignment Outcomes
+Students could extract important words from a text (tokenization-stopwords).
+Students could do text classification based on Bag-of-Words.
+Students understand the challenge of NLP.
+
+Tasks
+Homework 1: Extracting important words from a text (Tokenization-Stopwords)
+
+Write a Python script on a Google Colab: 
+Take the whole Pancasila text as input (e.g. from https://en.wikibooks.org/wiki/Indonesian/Texts/Pancasila)
+Do tokenization to the input text.
+List down all stopwords in Indonesian using nltk library.
+Remove stopwords from the input text.
+
+Homework 2: Text classification based on Bag-of-Words
+
+Write a Python script on a Google Colab: 
+Define three possible text topics: Health, Sport, Finance.
+Find texts/articles as the basis/training of the three topics.
+Compute the Bag-of-Words vector for each topic.
+Classify this text to the correct topic:
+“Cristiano Ronaldo came off the bench to earn Manchester United a hard-fought 2-1 victory at Everton in the Premier League on Sunday, taking his career goal tally to 700 in the process. Just as United did last weekend in their derby mauling at the hands of local rivals Manchester City, they again found themselves behind early on at Goodison Park after Alex Iwobi curled a sublime strike into the net from 20 metres.”
+
+
+Homework 3: Understanding the challenge of NLP
+Explain briefly the challenges that make NLP difficult to reach human level sense.
+
+Notes:
+All answers can be submitted in a single .ipynb file.
+Any error in code will become 0. Please check before submitting.
+Hint: You can modify it from the material of the live coding session.
+
+Submission:
+Submit your .ipynb as a submission file.
+Submit your assignment with the format: [Chapter]_[Team]_[Full Name]. Example: 03_Alexa_Avelya Hesti Pratama
+Do not forget to click "turn in", Good luck!

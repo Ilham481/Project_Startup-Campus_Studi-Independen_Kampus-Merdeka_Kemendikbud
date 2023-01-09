@@ -1,0 +1,7 @@
+Learning Materials
+
+Learn Python
+https://www.learnpython.org/
+
+OpenCV Course
+https://www.youtube.com/watch?v=oXlwWbU8l2o

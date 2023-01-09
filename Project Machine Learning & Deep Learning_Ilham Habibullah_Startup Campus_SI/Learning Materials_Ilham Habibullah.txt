@@ -1,0 +1,15 @@
+Learning Materials 
+
+Reinforcement Learning
+Introduction to Reinforcement Learning with David Silver https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver 
+Reinforcement Learning 1 https://web.stanford.edu/class/cs234/index.html
+Reinforcement Learning 2 https://web.stanford.edu/class/cs234/CS234Win2019/ 
+Reinforcement Learning 3 https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u 
+Reinforcement Learning Lecture Series https://www.deepmind.com/learning-resources/reinforcement-learning-lecture-series-2021 
+Reinforcement Learning Advanced Topics https://www.davidsilver.uk/teaching/
+
+Hands On Reinforcement Learning with Python
+https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python 
+
+Model Evaluation - Machine Learning Systems Design
+https://stanford-cs329s.github.io/syllabus.html

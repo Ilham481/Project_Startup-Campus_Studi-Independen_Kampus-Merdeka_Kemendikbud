@@ -1,0 +1,9 @@
+Learning Materials
+
+Data Science Tutorial
+https://www.w3schools.com/datascience/
+
+Data Science Fundamental
+https://towardsdatascience.com/a-complete-20-week-guide-to-self-learn-data-science-fundamentals-for-free-bf5873f5acc6 
+Python, Data Viz, Pandas, & More
+https://www.kaggle.com/learn
